@@ -2,6 +2,8 @@
 
 Learn English: https://victoriakam-english-for-kids.netlify.app/
 
+HTML, CSS, JavaScript
+
 An app for kids for learning English. It's divided by topics like numbers, colors, animals etc.
 
 Every topic has a set of words.
@@ -15,5 +17,3 @@ You will hear words that are spoken in the random order and you have to click on
 If all the words clicked are correct - you win, otherwise you can try again.
 
 Enjoy the game and upgrade your English skills :)
-
-HTML, CSS, JavaScript
